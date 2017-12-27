@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookmarker:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bookmarker.war">
+      <element id="artifact" artifact-name="bookmarker:war exploded" />
+    </root>
+  </artifact>
+</component>
